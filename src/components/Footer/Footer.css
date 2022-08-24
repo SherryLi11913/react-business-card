@@ -1,0 +1,22 @@
+.footer-container {
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    padding: 19px 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.footer-icon-container {
+    width: 25px;
+    height: 25px;
+    background: #918E9B;
+    margin: 0 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-icon {
+    width: 80%;
+}

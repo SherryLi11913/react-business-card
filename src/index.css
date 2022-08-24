@@ -1,0 +1,15 @@
+body{
+  width: 550px;
+  height: 868px;
+  background: #23252C;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+p {
+  margin: 0;
+}

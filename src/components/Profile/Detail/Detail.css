@@ -1,0 +1,17 @@
+.profile-detail-container {
+    margin: 0 0 27px;
+}
+
+.profile-detail-heading {
+    font-weight: 700px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F5F5F5;
+    margin: 0 0 5px;
+}
+
+.profile-detail-description {
+    font-size: 10px;
+    line-height: 15px;
+    color: #DCDCDC;
+}
